@@ -34,4 +34,4 @@ Aspiring Data Scientist & Data Analyst based in Bandung, Indonesia.
 Feel free to reach out for collaboration or opportunities!
 
 - Email: aysa.kimi@gmail.com
-- LinkedIn: linkedin.com/in/wiwipertiwi
+- LinkedIn: [linkedin.com/in/wiwipertiwi](https://www.linkedin.com/in/wiwipertiwi/)
