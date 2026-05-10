@@ -27,9 +27,4 @@ Aspiring Data Scientist & Data Analyst based in Bandung, Indonesia.
 ![Orange](https://img.shields.io/badge/Orange-FF6600?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimiwiwi&show_icons=true&theme=tokyonight)
-
-Simple, bersih, dan terlihat natural. Klik Preview dulu untuk cek, lalu commit 😊Sonnet 4.6
