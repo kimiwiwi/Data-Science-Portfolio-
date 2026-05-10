@@ -28,9 +28,26 @@ using machine learning regression models.
 | AdaBoost | 0.758 | 39.485 | 8.008 |
 | Random Forest | 0.785 | 37.240 | 14.127 |
 
+## Analysis & Findings
+Based on the Explain Model (SHAP), the most influential features
+for predicting CO concentration are:
+
+1. **C6H6(GT)** - Benzene has the highest impact on CO prediction,
+   both are produced by incomplete combustion from vehicle emissions.
+
+2. **PT08.S1(CO)** - The CO sensor reading directly correlates
+   with actual CO concentration as expected.
+
+3. **T (Temperature)** - Higher temperatures affect pollutant
+   dispersion in the atmosphere.
+
 ## Conclusion
-Random Forest achieved the best R2 score of 0.785,
-meaning the model explains 78.5% of CO concentration patterns.
+Linear Regression performed poorly (R2=0.058) because the
+relationship between air quality variables is non-linear.
+
+Random Forest achieved the best performance (R2=0.785),
+successfully explaining 78.5% of CO concentration patterns,
+making it the most suitable model for this dataset.
 
 ## Tools
 - Orange Data Mining
