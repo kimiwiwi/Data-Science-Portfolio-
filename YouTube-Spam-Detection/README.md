@@ -22,16 +22,30 @@ using Text Mining and Logistic Regression.
 ## Model & Results
 | Metric | Score |
 |--------|-------|
-| AUC | 0.981 |
+| AUC | 0.983 |
 | Accuracy | 94.3% |
 | F1 Score | 0.943 |
 | Precision | 0.949 |
 | Recall | 0.943 |
 
+## Analysis & Findings
+The model successfully identified key patterns in spam comments:
+
+1. **Self-promotion** - Words like "subscribe", "check", "channel"
+   frequently appear in spam comments promoting other channels.
+
+2. **External links** - Comments containing URLs and website
+   references are strong indicators of spam.
+
+3. **Engagement bait** - Words like "troll", "social", "get"
+   are commonly used to lure users into clicking spam links.
+
 ## Conclusion
-Logistic Regression successfully detects YouTube spam comments
-with 94.3% accuracy. Key spam indicators include words like
-"troll", "social", and "get".
+Logistic Regression with TF-IDF vectorization achieved 94.3%
+accuracy in detecting spam comments. The high AUC score (0.983)
+indicates the model excellently distinguishes spam from
+legitimate comments, making it reliable for real-world
+spam detection on YouTube comment sections.
 
 ## Tools
 - Orange Data Mining
