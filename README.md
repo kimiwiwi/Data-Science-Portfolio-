@@ -18,7 +18,7 @@ Aspiring Data Scientist & Data Analyst based in Bandung, Indonesia.
 |----|---------|-------------|-------|
 | 1 | Air Quality Prediction | Predicting CO concentration using regression models | Orange |
 | 2 | YouTube Spam Detection | Classifying spam comments using Text Mining | Orange, NLP |
-
+| 3 | Power BI Dashboard - Bank BNI | Performance and transaction analysis of BNI branches | Power BI |
 ---
 
 ## Skills & Tools
