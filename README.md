@@ -29,3 +29,9 @@ Aspiring Data Scientist & Data Analyst based in Bandung, Indonesia.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+## Contact
+
+Feel free to reach out for collaboration or opportunities!
+
+- Email: aysa.kimi@gmail.com
+- LinkedIn: linkedin.com/in/wiwipertiwi
